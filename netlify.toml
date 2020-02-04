@@ -4,4 +4,4 @@
   
 [build.environment]
   HUGO_VERSION = "0.63.2"
-  HUGO_THEME = "educenter-hugo"
+  HUGO_THEME = "repo"
